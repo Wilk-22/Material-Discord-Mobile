@@ -1,0 +1,93 @@
+{
+    "name": "Material-you",
+    "description": "Material you theme",
+    "authors": [
+        {
+            "name": "Wilk22",
+            "id": "543154693984223245"
+        },
+
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#EEEEEE"
+        ],
+        "HEADER_SECONDARY": [
+            "#EAEAEA"
+        ],
+        "TEXT_NORMAL": [
+            "#D9D9D9"
+        ],
+        "TEXT_MUTED": [
+            "#A07D6C"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#B9B9B9"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#DEDEDE"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#DEDEDE"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#676767"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#16171a"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#252525"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#272727"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#0f1012"
+        ],
+        "BACKGROUND_ACCENT": [
+            "2F2F2F"
+        ],
+        "BACKGROUND_FLOATING": [
+            "2F2F2F"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#16171a"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#252525"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#DEDEDE"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#272727"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#383838"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#3C3C3C"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#293242"
+        ],
+        "TEXT_LINK": [
+            "#4040F0"
+        ],
+        "TEXT_DANGER": [
+            "#F04040"
+        ],
+        "KEYBOARD": [
+            "#110D0A"
+        ],
+        "CHANNEL_ICON": [
+            "#EAEAEA"
+        ],
+        "CHAT_BACKGROUND": [
+            "#16171A"
+        ]
+    },
+}
+    "spec": 2
+}
