@@ -8,6 +8,7 @@
         },
 
     ],
+    "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#EEEEEE"
