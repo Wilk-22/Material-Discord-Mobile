@@ -19,7 +19,7 @@
             "#D9D9D9"
         ],
         "TEXT_MUTED": [
-            "#A07D6C"
+            "#D9D9D9"
         ],
         "INTERACTIVE_NORMAL": [
             "#B9B9B9"
@@ -83,9 +83,6 @@
         ],
         "CHAT_BACKGROUND": [
             "#16171A"
-        ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#A07D6C"
         ]
     }
 }
