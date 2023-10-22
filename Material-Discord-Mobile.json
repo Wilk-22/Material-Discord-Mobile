@@ -81,6 +81,9 @@
         "CHANNEL_ICON": [
             "#EAEAEA"
         ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#303030"
+        ],
         "CHAT_BACKGROUND": [
             "#16171A"
         ]
