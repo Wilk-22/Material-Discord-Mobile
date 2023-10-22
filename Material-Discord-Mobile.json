@@ -79,14 +79,11 @@
         "TEXT_DANGER": [
             "#F04040"
         ],
-        "KEYBOARD": [
-            "#110D0A"
-        ],
         "CHANNEL_ICON": [
             "#EAEAEA"
         ],
         "CHAT_BACKGROUND": [
             "#16171A"
         ]
-    },
+    }
 }
