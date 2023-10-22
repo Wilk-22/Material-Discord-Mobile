@@ -81,11 +81,11 @@
         "CHANNEL_ICON": [
             "#EAEAEA"
         ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#2C2D31"
-        ],
         "CHAT_BACKGROUND": [
             "#16171A"
         ]
+    },
+    "rawColors": {
+        "PRIMARY_700": "#2C2D31",
     }
 }
