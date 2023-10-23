@@ -1,88 +1,92 @@
 {
-    "name": "Material Discord Mobile",
-    "description": "Material you discord theme for mobile",
-    "authors": [
-        {
-            "name": "Wilk22",
-            "id": "543154693984223245"
-        }
-    ],
-    "spec": 2,
-    "semanticColors": {
-        "HEADER_PRIMARY": [
-            "#EEEEEE"
-        ],
-        "HEADER_SECONDARY": [
-            "#EAEAEA"
-        ],
-        "TEXT_NORMAL": [
-            "#DEDEDE"
-        ],
-        "TEXT_MUTED": [
-            "#B9B9B9"
-        ],
-        "TEXT_LINK": [
-            "#5078b4"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#B9B9B9"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#EAEAEA"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#EAEAEA"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#676767"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#16171A"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#16171A"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#27272A"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#0f1012"
-        ],
-        "BACKGROUND_ACCENT": [
-            "1E1E1E"
-        ],
-        "BACKGROUND_FLOATING": [
-            "1E1E1E"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#16171A"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#16171A"
-        ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#DEDEDE"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#272727"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#383838"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#283C5A"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#293242"
-        ],
-        "TEXT_DANGER": [
-            "#F04040"
-        ],
-        "CHANNEL_ICON": [
-            "#EAEAEA"
-        ],
-        "CHAT_BACKGROUND": [
-            "#16171A"
-        ]
+  "name": "Material Discord Mobile",
+  "description": "Material you discord theme for mobile",
+  "authors": [
+    {
+      "name": "Wilk22",
+      "id": "543154693984223245"
     }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#EEEEEE"
+    ],
+    "HEADER_SECONDARY": [
+      "#EAEAEA"
+    ],
+    "TEXT_NORMAL": [
+      "#DEDEDE"
+    ],
+    "TEXT_MUTED": [
+      "#B9B9B9"
+    ],
+    "TEXT_LINK": [
+      "#5078b4"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#B9B9B9"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#EAEAEA"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#EAEAEA"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#676767"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#16171A"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#16171A"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#27272A"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0f1012"
+    ],
+    "BACKGROUND_ACCENT": [
+      "1E1E1E"
+    ],
+    "BACKGROUND_FLOATING": [
+      "1E1E1E"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#16171A"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#16171A"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#DEDEDE"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#272727"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#383838"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#283C5A"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#293242"
+    ],
+    "TEXT_DANGER": [
+      "#F04040"
+    ],
+    "CHANNEL_ICON": [
+      "#EAEAEA"
+    ],
+    "CHAT_BACKGROUND": [
+      "#16171A"
+    ]
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "md3"
+  }
 }
