@@ -85,6 +85,11 @@
       "#16171A"
     ]
   },
+  "rawColors": {
+    "PRIMARY_600": [
+      "#16171A"
+    ]
+  },
   "plus": {
     "version": "0",
     "iconpack": "md3"
