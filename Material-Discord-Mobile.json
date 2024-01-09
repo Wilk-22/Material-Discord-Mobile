@@ -18,19 +18,28 @@
     "TEXT_NORMAL": [
       "#DEDEDE"
     ],
+    "TEXT_PRIMARY": [
+      "#DEDEDE"
+    ],
     "TEXT_MUTED": [
       "#B9B9B9"
     ],
+    "TEXT_SECONDARY": [
+      "#B9B9B9"
+    ],
     "TEXT_LINK": [
-      "#5078b4"
+      "#5078B4"
+    ],
+    "TEXT_DANGER": [
+      "#F04040"
     ],
     "INTERACTIVE_NORMAL": [
       "#B9B9B9"
     ],
-    "INTERACTIVE_HOVER": [
+    "INTERACTIVE_ACTIVE": [
       "#EAEAEA"
     ],
-    "INTERACTIVE_ACTIVE": [
+    "INTERACTIVE_HOVER": [
       "#EAEAEA"
     ],
     "INTERACTIVE_MUTED": [
@@ -43,16 +52,13 @@
       "#16171A"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#27272A"
+      "#16171A"
     ],
     "BACKGROUND_TERTIARY": [
       "#0f1012"
     ],
     "BACKGROUND_ACCENT": [
-      "1E1E1E"
-    ],
-    "BACKGROUND_FLOATING": [
-      "1E1E1E"
+      "#1E52EE"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#16171A"
@@ -72,23 +78,58 @@
     "BACKGROUND_MODIFIER_SELECTED": [
       "#283C5A"
     ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#293242"
+    "BACKGROUND_MENTIONED": [
+      "#283C5A"
     ],
-    "TEXT_DANGER": [
-      "#F04040"
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#283C5A"
     ],
     "CHANNEL_ICON": [
       "#EAEAEA"
     ],
     "CHAT_BACKGROUND": [
       "#16171A"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#DEDEDE"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#272727"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#272727"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#272727"
+    ],
+    "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
+      "#DEDEDE"
     ]
   },
   "rawColors": {
-    "PRIMARY_600": [
-      "#16171A"
-    ]
+    "PRIMARY_100": "#EEEEEE",
+    "PRIMARY_300": "#16171A",
+    "PRIMARY_400": "#EAEAEA",
+    "PRIMARY_460": "#16171A",
+    "PRIMARY_500": "#EEEEEE",
+    "PRIMARY_600": "#16171A",
+    "PRIMARY_630": "#16171A",
+    "PRIMARY_660": "#272727",
+    "PRIMARY_700": "#272727",
+    "PRIMARY_800": "#16171A",
+    "PLUM_10": "#EAEAEA",
+    "PLUM_13": "#EAEAEA",
+    "PLUM_16": "#272727",
+    "PLUM_17": "#272727",
+    "PLUM_18": "#283C5A",
+    "PLUM_19": "#283C5A",
+    "PLUM_20": "#16171A",
+    "PLUM_22": "#283C5A",
+    "PLUM_24": "#272727",
+    "PLUM_25": "#16171A",
+    "PLUM_3": "#EEEEEE",
+    "PLUM_6": "#EAEAEA",
+    "PLUM_9": "#EEEEEE"
   },
   "plus": {
     "version": "0",
